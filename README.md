@@ -24,7 +24,7 @@ The script read the directories recursively. Keep your trajectories in a logical
           |-ctrl
           |-treated
 		  
-		  
+```		  
 └── data  
     └── E2  
         ├── 100pM  
@@ -33,7 +33,7 @@ The script read the directories recursively. Keep your trajectories in a logical
         └── 100nM  
             ├── ctrl  
             └── treated  
-
+```
 
 
 04. When the analysis completed, you will be informed.
