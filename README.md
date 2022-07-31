@@ -28,11 +28,11 @@ The script read the directories recursively. Keep your trajectories in a logical
 ├── data  
     ├── E2  
         ├── 100pM  
-		│   ├── ctrl  
-		│   ├── treated  
+        │   ├── ctrl  
+        │   ├── treated  
         ├── 100nM  
-		    ├── ctrl  
-		    ├── treated  
+        │   ├── ctrl  
+        │   ├── treated  
 
 
 
