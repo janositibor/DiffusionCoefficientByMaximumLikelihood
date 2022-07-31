@@ -21,23 +21,23 @@ The script read the directories recursively. Keep your trajectories in a logical
           |-ctrl
           |-treated
 		  
-├── src
-│   ├── controller
-│   │   ├── **/*.css
-│   ├── views
-│   ├── model
-│   ├── index.js
-├── public
-│   ├── css
-│   │   ├── **/*.css
-│   ├── images
-│   ├── js
-│   ├── index.html
-├── dist (or build
-├── node_modules
-├── package.json
-├── package-lock.json 
-└── .gitignore
+├── data
+
+    ├── E2
+	
+        ├── 100pM
+		
+		│   ├── ctrl
+    
+		│   ├── treated
+
+        ├── 100nM
+		
+		    ├── ctrl
+    
+		    ├── treated
+
+
 
 04. When the analysis completed, you will be informed.
 
