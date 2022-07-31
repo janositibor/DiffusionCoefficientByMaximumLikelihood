@@ -22,14 +22,14 @@ The script read the directories recursively. Keep your trajectories in a logical
           |-treated
 		  
 .
-├── ...
-├── docs                    # Documentation files (alternatively `doc`)
-│   ├── TOC.md              # Table of contents
-│   ├── faq.md              # Frequently asked questions
-│   ├── misc.md             # Miscellaneous information
-│   ├── usage.md            # Getting started guide
-│   └── ...                 # etc.
-└── ...
++-- ...
++-- docs                    # Documentation files (alternatively `doc`)
+�   +-- TOC.md              # Table of contents
+�   +-- faq.md              # Frequently asked questions
+�   +-- misc.md             # Miscellaneous information
+�   +-- usage.md            # Getting started guide
+�   +-- ...                 # etc.
++-- ...
 
 04. When the analysis completed, you will be informed.
 
