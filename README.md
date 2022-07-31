@@ -27,6 +27,16 @@ The script read the directories recursively. Keep your trajectories in a logical
 		  
           |-treated
 		  
+		  
+├── dir1
+│   ├── file11.ext
+│   └── file12.ext
+├── dir2
+│   ├── file21.ext
+│   ├── file22.ext
+│   └── file23.ext
+├── dir3
+├── file_in_root.ext
 
 04. When the analysis completed, you will be informed.
 
