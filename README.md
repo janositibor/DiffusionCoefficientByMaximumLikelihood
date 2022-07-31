@@ -21,14 +21,15 @@ The script read the directories recursively. Keep your trajectories in a logical
           |-ctrl
           |-treated
 		  
-* data
- * E2
-   * 100pM
-    * ctrl
-    * treated
-   * 100nM
-    * ctrl
-    * treated
+.
+├── ...
+├── docs                    # Documentation files (alternatively `doc`)
+│   ├── TOC.md              # Table of contents
+│   ├── faq.md              # Frequently asked questions
+│   ├── misc.md             # Miscellaneous information
+│   ├── usage.md            # Getting started guide
+│   └── ...                 # etc.
+└── ...
 
 04. When the analysis completed, you will be informed.
 
