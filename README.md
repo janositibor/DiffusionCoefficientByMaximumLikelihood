@@ -12,13 +12,21 @@ Maximum likelihood based estimation of diffusion coefficient
 
 The script read the directories recursively. Keep your trajectories in a logical directory structure. For example: 
  |- data
+ 
     |- E2
+	
        |- 100pM
+	   
        |  |-ctrl
+	   
        |  |-treated
+	   
        |- 100nM
+	   
           |-ctrl
+		  
           |-treated
+		  
 
 04. When the analysis completed, you will be informed.
 
