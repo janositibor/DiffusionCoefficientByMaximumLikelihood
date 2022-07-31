@@ -14,7 +14,9 @@ The script read the directories recursively. Keep your trajectories in a logical
 
 .
 +-- _config.yml
+
 +-- _drafts
+
 |   +-- begin-with-the-crazy-ideas.textile
 |   +-- on-simplicity-in-technology.markdown
 +-- _includes
