@@ -11,32 +11,17 @@ Maximum likelihood based estimation of diffusion coefficient
 ![Input fields to define params](/info/02-BrowseDirectory.png)
 
 The script read the directories recursively. Keep your trajectories in a logical directory structure. For example: 
+
  |- data
- 
     |- E2
-	
        |- 100pM
-	   
        |  |-ctrl
-	   
        |  |-treated
-	   
        |- 100nM
-	   
           |-ctrl
-		  
           |-treated
 		  
-		  
-├── dir1
-│   ├── file11.ext
-│   └── file12.ext
-├── dir2
-│   ├── file21.ext
-│   ├── file22.ext
-│   └── file23.ext
-├── dir3
-├── file_in_root.ext
+
 
 04. When the analysis completed, you will be informed.
 
