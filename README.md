@@ -21,15 +21,23 @@ The script read the directories recursively. Keep your trajectories in a logical
           |-ctrl
           |-treated
 		  
-.
-+-- ...
-+-- docs                    # Documentation files (alternatively `doc`)
-�   +-- TOC.md              # Table of contents
-�   +-- faq.md              # Frequently asked questions
-�   +-- misc.md             # Miscellaneous information
-�   +-- usage.md            # Getting started guide
-�   +-- ...                 # etc.
-+-- ...
+├── src
+│   ├── controller
+│   │   ├── **/*.css
+│   ├── views
+│   ├── model
+│   ├── index.js
+├── public
+│   ├── css
+│   │   ├── **/*.css
+│   ├── images
+│   ├── js
+│   ├── index.html
+├── dist (or build
+├── node_modules
+├── package.json
+├── package-lock.json 
+└── .gitignore
 
 04. When the analysis completed, you will be informed.
 
