@@ -25,14 +25,14 @@ The script read the directories recursively. Keep your trajectories in a logical
           |-treated
 		  
 		  
-├── data  
-    ├── E2  
+└── data  
+    └── E2  
         ├── 100pM  
         │   ├── ctrl  
-        │   ├── treated  
-        ├── 100nM  
-        │   ├── ctrl  
-        │   ├── treated  
+        │   └── treated  
+        └── 100nM  
+            ├── ctrl  
+            └── treated  
 
 
 
